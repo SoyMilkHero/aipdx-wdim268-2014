@@ -1,0 +1,127 @@
+body		{
+		width: 98%;
+		text-align: center;
+ 		background-image:url('Images/MojangLogo.jpg');
+ 		background-color: blue;
+		}
+		
+
+
+#container	{
+		float: right;
+		text-align: center;
+		width: 800px;
+		height: 600px;
+		background-color: white;
+		background-image: url('Images/Background2.jpg');
+		background-position:right bottom;
+		background-repeat:no-repeat;
+		padding: 25px;
+		width: 50%;
+    		margin: auto;
+    		border-width: 5px;
+    		border-style: solid;
+    		border-color: black;
+		}
+		
+#container2	{
+		float: right;
+		text-align: center;
+		width: 800px;
+		height: 600px;
+		background-color: white;
+		background-image: url('Images/Background3.png');
+		background-position:right bottom;
+		background-repeat:no-repeat;
+		padding: 25px;
+		width: 50%;
+    		margin: auto;
+    		border-width: 5px;
+    		border-style: solid;
+    		border-color: black;
+		}
+		
+#container3	{
+		float: right;
+		text-align: center;
+		width: 800px;
+		height: 600px;
+		background-color: white;
+		background-image: url('Images/Background4.png');
+		background-position:right bottom;
+		background-repeat:no-repeat;
+		padding: 25px;
+		width: 50%;
+    		margin: auto;
+    		border-width: 5px;
+    		border-style: solid;
+    		border-color: black;
+		}
+		
+#nav		{
+		height: auto;
+		width: 175px;
+		background-color: white;
+		border: 5px solid black;
+		float: left;
+		margin-left: 250px;
+		}
+		
+#nav a:link	{
+		display: block;
+		height: 25px;
+		width: auto;
+		border: 2px solid  black;
+		color: black;
+		background-color: white;
+		text-decoration: none;
+		font-size: 14px;
+		margin: 25px;
+		padding: 4px;	
+		}
+		
+#nav a:visited	{
+		display: block;
+		height: 25px;
+		width: auto;
+		border: 1px solid black;
+		color: purple;
+		background-color: white;
+		text-decoration: underline;
+		font-size: 14px;
+		margin: 25px;
+		padding: 4px;	
+		}
+		
+#nav a:hover	{
+		display: block;
+		height: 25px;
+		width: auto;
+		border: 1px dotted black;
+		color: white;
+		background-color: blue;
+		text-decoration: underline;
+		font-size: 14px;
+		margin: 25px;
+		padding: 4px;	
+		}
+		
+#p1		{
+		padding-top: 35px;
+		}
+		
+#p2		{
+		margin-right: 125px;
+		}
+		
+		
+p		{
+		text-align: left;
+		}
+		
+#wrapper	{
+		text-align: center;
+		width: 1000px;
+		height: auto;
+		}
+		
